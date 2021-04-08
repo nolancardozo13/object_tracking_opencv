@@ -1,1 +1,1 @@
-# single_object_tracking_opencv
+# Object Tracking algorithms in opencv
